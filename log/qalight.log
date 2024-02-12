@@ -1119,3 +1119,36 @@ Session ID: 94feebea1328749bee0c6e72575e5bcc
 2024-12-02 12:02:45   INFO [pages.WomanProductListPage] : Number of filters is 8
 2024-12-02 12:02:45   INFO [WomanProductPageListFiltersTest] : Browser was closed
 2024-12-02 12:02:45   INFO [WomanProductPageListFiltersTest] : ----womanProductPageListFiltersTest was ended----
+2024-12-02 12:07:53   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 12:07:56   INFO [AddToCartTest] : Browser was opened
+2024-12-02 12:07:59   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 12:07:59   INFO [AddToCartTest] : Name of product #1: Жіноча чорна парка
+2024-12-02 12:07:59   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-12-02 12:08:01   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 12:08:01   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 12:08:01   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 12:08:01   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 12:08:02   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 12:08:02   INFO [pages.ProductPage] : Product added to cart
+2024-12-02 12:08:02   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 12:08:02   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 12:08:03   INFO [pages.CartPage] : Product name is Жіноча чорна парка
+2024-12-02 12:08:03   INFO [AddToCartTest] : Browser was closed
+2024-12-02 12:08:03   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 12:10:33   INFO [AddToFavoriteListTest] : ---------addToFavoriteListTest was started ----------
+2024-12-02 12:10:37   INFO [AddToFavoriteListTest] : Browser was opened
+2024-12-02 12:10:41   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 12:10:41   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 12:10:41   INFO [pages.WomanProductListPage] : Product "Світло-зелена парка" added to favorite list
+2024-12-02 12:10:41   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 12:10:41   INFO [pages.WomanProductListPage] : Product "Жіноча чорна парка" added to favorite list
+2024-12-02 12:10:41   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 12:10:42   INFO [pages.WomanProductListPage] : Product "Чорно-рожева укорочена пухнаста куртка" added to favorite list
+2024-12-02 12:10:42   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 12:10:42   INFO [pages.WomanProductListPage] : Product "Шуба молочного кольору" added to favorite list
+2024-12-02 12:10:42   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 12:10:42   INFO [pages.WomanProductListPage] : Product "Шуба молочного кольору" added to favorite list
+2024-12-02 12:10:43   INFO [pages.FavoriteListPage] : Page /shop/favorite was opened
+2024-12-02 12:10:43   INFO [pages.FavoriteListPage] : All products are correctly added to favorite list
+2024-12-02 12:10:44   INFO [AddToFavoriteListTest] : Browser was closed
+2024-12-02 12:10:44   INFO [AddToFavoriteListTest] : ----addToFavoriteListTest was ended----

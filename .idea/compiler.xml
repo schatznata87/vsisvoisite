@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TestSite" />
-        <module name="TestSite2" />
+        <module name="vsisvoisite" />
+        <module name="vsisvoisite2" />
+        <module name="VsiSvoisite" />
       </profile>
     </annotationProcessing>
   </component>
