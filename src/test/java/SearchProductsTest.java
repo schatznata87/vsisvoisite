@@ -9,7 +9,8 @@ public class SearchProductsTest extends BaseTest {
 
         String searchQuery = "куртка";
 
-        WomanProductListPage womanProductListPage = (WomanProductListPage) pageProvider.getWomanProductListPage().openPage();
+        WomanProductListPage womanProductListPage = (WomanProductListPage)
+                pageProvider.getWomanProductListPage().openPage();
 
         womanProductListPage.searchProduct(searchQuery).checkProductSearch(searchQuery);
 

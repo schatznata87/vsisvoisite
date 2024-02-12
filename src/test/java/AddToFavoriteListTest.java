@@ -12,7 +12,8 @@ public class AddToFavoriteListTest extends BaseTest {
 
         int numberOfProducts = 5;
 
-        WomanProductListPage womanProductListPage = (WomanProductListPage) pageProvider.getWomanProductListPage().openPage();
+        WomanProductListPage womanProductListPage = (WomanProductListPage)
+                pageProvider.getWomanProductListPage().openPage();
 
         List<String> addedProducts = new ArrayList<String>();
 

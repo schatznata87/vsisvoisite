@@ -10,7 +10,8 @@ public class AddToCartTest extends BaseTest {
         int productIndex = 1;
         String productSize = "S";
 
-        WomanProductListPage womanProductListPage = (WomanProductListPage) pageProvider.getWomanProductListPage().openPage();
+        WomanProductListPage womanProductListPage = (WomanProductListPage)
+                pageProvider.getWomanProductListPage().openPage();
 
         String productName = womanProductListPage.getProductName(productIndex);
 

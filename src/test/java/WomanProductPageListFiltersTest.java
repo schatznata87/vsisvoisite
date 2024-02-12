@@ -9,7 +9,8 @@ public class WomanProductPageListFiltersTest extends BaseTest {
 
         int expectedNumberOfFilters = 8;
 
-        WomanProductListPage womanProductListPage = (WomanProductListPage) pageProvider.getWomanProductListPage().openPage();
+        WomanProductListPage womanProductListPage = (WomanProductListPage)
+                pageProvider.getWomanProductListPage().openPage();
 
         womanProductListPage.checkIsFiltersListItemsVisible()
                 .checkNumberOfFilters(expectedNumberOfFilters);
