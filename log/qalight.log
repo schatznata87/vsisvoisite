@@ -919,3 +919,114 @@ Session ID: 94feebea1328749bee0c6e72575e5bcc
 2024-12-02 05:27:43   INFO [pages.CartPage] : Product name is Світло-зелена парка
 2024-12-02 05:27:43   INFO [AddToCartTest] : Browser was closed
 2024-12-02 05:27:43   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 11:09:11   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 11:09:16   INFO [AddToCartTest] : Browser was opened
+2024-12-02 11:09:21   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:09:21   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 11:09:21   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 11:09:23   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:09:23   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:09:23   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:09:23   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 11:09:24   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 11:09:24   INFO [pages.ProductPage] : Product added to cart
+2024-12-02 11:09:25   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 11:09:25   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 11:09:25   INFO [pages.CartPage] : Product name is Світло-зелена парка
+2024-12-02 11:09:25   INFO [AddToCartTest] : Browser was closed
+2024-12-02 11:09:25   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 11:09:42   INFO [AddToFavoriteListTest] : ---------addToFavoriteListTest was started ----------
+2024-12-02 11:09:45   INFO [AddToFavoriteListTest] : Browser was opened
+2024-12-02 11:09:48   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:09:48   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:09:48   INFO [pages.WomanProductListPage] : Product "Жіноча чорна парка" added to favorite list
+2024-12-02 11:09:48   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:09:48   INFO [pages.WomanProductListPage] : Product "Світло-зелена парка" added to favorite list
+2024-12-02 11:09:49   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:09:49   INFO [pages.WomanProductListPage] : Product "Чорно-рожева укорочена пухнаста куртка" added to favorite list
+2024-12-02 11:09:49   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:09:49   INFO [pages.WomanProductListPage] : Product "Шуба молочного кольору" added to favorite list
+2024-12-02 11:09:49   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:09:49   INFO [pages.WomanProductListPage] : Product "Шуба молочного кольору" added to favorite list
+2024-12-02 11:09:50   INFO [pages.FavoriteListPage] : Page /shop/favorite was opened
+2024-12-02 11:09:51   INFO [pages.FavoriteListPage] : All products are correctly added to favorite list
+2024-12-02 11:09:53   INFO [AddToFavoriteListTest] : Browser was closed
+2024-12-02 11:09:53   INFO [AddToFavoriteListTest] : ----addToFavoriteListTest was ended----
+2024-12-02 11:10:04   INFO [DeleteProductFromCartTest] : ---------deleteProductFromCartTest was started ----------
+2024-12-02 11:10:10   INFO [DeleteProductFromCartTest] : Browser was opened
+2024-12-02 11:10:15   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:10:15   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-12-02 11:10:17   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:10:18   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:10:18   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:10:18   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 11:10:18   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 11:10:18   INFO [pages.ProductPage] : Product added to cart
+2024-12-02 11:10:22   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:10:22   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 11:10:23   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:10:24   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:10:24   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:10:24   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 11:10:24   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 11:10:24   INFO [pages.ProductPage] : Product added to cart
+2024-12-02 11:10:26   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:10:26   INFO [pages.WomanProductListPage] : Product 'Чорно-рожева укорочена пухнаста куртка' was opened
+2024-12-02 11:10:28   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:10:28   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 11:10:29   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 11:10:29   INFO [pages.ProductPage] : Product added to cart
+2024-12-02 11:10:30   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 11:10:30   INFO [pages.CartPage] : Number of cart items is 3
+2024-12-02 11:10:30   INFO [pages.CartPage] :  Element was clicked
+2024-12-02 11:10:31   INFO [DeleteProductFromCartTest] : Browser was closed
+2024-12-02 11:10:31   INFO [DeleteProductFromCartTest] : ----deleteProductFromCartTest was ended----
+2024-12-02 11:10:56   INFO [DeleteProductFromCartTest] : ---------deleteProductFromCartTest was started ----------
+2024-12-02 11:11:00   INFO [DeleteProductFromCartTest] : Browser was opened
+2024-12-02 11:11:03   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:11:03   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-12-02 11:11:05   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:11:05   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:11:05   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:11:06   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 11:11:06   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 11:11:06   INFO [pages.ProductPage] : Product added to cart
+2024-12-02 11:11:07   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:11:08   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 11:11:09   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:11:09   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:11:09   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 11:11:09   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 11:11:10   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 11:11:10   INFO [pages.ProductPage] : Product added to cart
+2024-12-02 11:11:12   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:11:12   INFO [pages.WomanProductListPage] : Product 'Чорно-рожева укорочена пухнаста куртка' was opened
+2024-12-02 11:11:14   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 11:11:14   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 11:11:15   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 11:11:15   INFO [pages.ProductPage] : Product added to cart
+2024-12-02 11:11:16   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 11:11:16   INFO [pages.CartPage] : Number of cart items is 3
+2024-12-02 11:11:16   INFO [pages.CartPage] :  Element was clicked
+2024-12-02 11:11:17   INFO [pages.CartPage] : Product "Світло-зелена парка" deleted from the cart
+2024-12-02 11:11:17   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 11:11:17   INFO [pages.CartPage] : Number of cart items is 2
+2024-12-02 11:11:18   INFO [pages.CartPage] : Products are correctly deleted from the cart
+2024-12-02 11:11:18   INFO [DeleteProductFromCartTest] : Browser was closed
+2024-12-02 11:11:18   INFO [DeleteProductFromCartTest] : ----deleteProductFromCartTest was ended----
+2024-12-02 11:11:25   INFO [SearchProductsTest] : ---------searchProductsTest was started ----------
+2024-12-02 11:11:29   INFO [SearchProductsTest] : Browser was opened
+2024-12-02 11:11:31   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:11:32   INFO [pages.elements.Header] :  Element was clicked
+2024-12-02 11:11:32   INFO [pages.WomanProductListPage] : куртка was inputted into input 
+2024-12-02 11:11:37   INFO [pages.WomanProductListPage] : Found products for search query "куртка"
+2024-12-02 11:11:39   INFO [pages.WomanProductListPage] : All products fit the search query "куртка"
+2024-12-02 11:11:39   INFO [SearchProductsTest] : Browser was closed
+2024-12-02 11:11:39   INFO [SearchProductsTest] : ----searchProductsTest was ended----
+2024-12-02 11:11:46   INFO [WomanProductPageListFiltersTest] : ---------womanProductPageListFiltersTest was started ----------
+2024-12-02 11:11:49   INFO [WomanProductPageListFiltersTest] : Browser was opened
+2024-12-02 11:11:52   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 11:11:52   INFO [pages.WomanProductListPage] : All filters are visible
+2024-12-02 11:11:52   INFO [pages.WomanProductListPage] : Number of filters is 8
+2024-12-02 11:11:52   INFO [WomanProductPageListFiltersTest] : Browser was closed
+2024-12-02 11:11:52   INFO [WomanProductPageListFiltersTest] : ----womanProductPageListFiltersTest was ended----
